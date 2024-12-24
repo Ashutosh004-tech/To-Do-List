@@ -15,9 +15,7 @@ addbtn.addEventListener("click",function(){
     }
 });
 
-// Event Delegation
-
-
+// Event Delegation 
 ul.addEventListener("click",function(event){
     console.log(event.target.nodeName);
     console.log(event.target.parentElement);

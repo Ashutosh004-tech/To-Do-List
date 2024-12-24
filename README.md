@@ -1,2 +1,2 @@
 # TO DO LIST PROJECT
-This is a Practice Project
+This is a Practice Project.
